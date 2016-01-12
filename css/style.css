@@ -1,0 +1,90 @@
+body {
+  background: url("http://s13.postimg.org/gn48x5l1j/post2.jpg") center fixed no-repeat;
+  
+  background-size:cover;
+  
+}
+
+
+h1{
+  font-family:Lobster;
+  color:white;
+  font-size:8em;
+   margin:auto;
+  text-align:center;
+  color:#E0E0E0;
+  text-shadow:0.1em 0.2em  0.1em #37474F;
+  
+} 
+.container{
+  margin:5%  10%  10% 10%;  
+}
+
+.posts{
+  
+  width:300px;
+  height:400px;
+  postiion:relative;
+  display:inline-block;
+  margin:1%;
+  background-color:#E0E0E0;
+  padding:0;
+  vertical-align: top;
+  border-radius:20px 7px 20px 7px;
+  text-align:center;
+}
+
+
+.posts img{
+  
+  width:240px;
+  height:220px;
+  margin-top:10px;
+  padding:10px;
+ border-radius:15px;
+}
+
+.posts:hover{
+  box-shadow: 0 0 3em #37474F;
+  height:400px;
+  transform:skew(1deg,5deg);
+}
+
+.storyHeadLine{
+  padding:1%;
+  text-align:center;
+}
+
+.storyHeadLine a{
+  text-decoration: none;
+  color: black;
+  font-family: 'Open Sans', sans-serif; 
+  text-align:center;
+ padding:5%;
+}
+
+.storyHeadLine a:hover{
+  color:#d50000;
+  font-weight:bold;
+}
+
+.user {
+  color:#d50000;;
+  text-align:center;
+  font-weight:bold;
+  margin:2%;  
+  font-family:'Open Sans', sans-serif; 
+}
+
+.user a{
+  text-decoration:none;
+  font-weight:bold;
+  color:#d50000;
+  
+}
+
+.votes-text{
+  margin:4%;
+  font-family:'Open Sans', sans-serif; 
+  font-weight:bold;
+}
