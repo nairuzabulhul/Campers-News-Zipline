@@ -1,3 +1,8 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/ZeeMax/pen/RrgKvj.
 
+Camper News is Free Code Camp project that shows the latest news posted by campers. 
+
+![Log] (http://s13.postimg.org/o1tssxl8n/camper.jpg)
  
+ Project Link : http://codepen.io/ZeeMax/live/RrgKvj
+ 
+ All projects at : All projects at : http://codepen.io/ZeeMax/pens/public/
